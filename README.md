@@ -1,3 +1,5 @@
+
+
 # HR Analytics Employee Attrition Prediction
 
 This repository contains all code, documentation, and deliverables for our final team project in AAI-510, focused on predicting employee attrition using the IBM HR Analytics dataset.
@@ -5,17 +7,15 @@ This repository contains all code, documentation, and deliverables for our final
 -----
 
 ## Table of Contents
-
-  - [Project Overview](https://www.google.com/search?q=%23project-overview)
-  - [Dataset](https://www.google.com/search?q=%23dataset)
-  - [Project Structure](https://www.google.com/search?q=%23project-structure)
-  - [Business Understanding](https://www.google.com/search?q=%23business-understanding)
-  - [Approach](https://www.google.com/search?q=%23approach)
-  - [Key Results](https://www.google.com/search?q=%23key-results)
-  - [How to Run](https://www.google.com/search?q=%23how-to-run)
-  - [Team Contributions](https://www.google.com/search?q=%23team-contributions)
-  - [References](https://www.google.com/search?q=%23references)
-
+- [Project Overview](#project-overview)
+- [Dataset](#dataset)
+- [Project Structure](#project-structure)
+- [Business Understanding](#business-understanding)
+- [Approach](#approach)
+- [How to Run](#how-to-run)
+- [Key Results](#key-results)
+- [Team Contributions](#Contact)
+- [References](#references)
 -----
 
 ## Project Overview
@@ -38,11 +38,10 @@ Employee attrition is a major challenge for organizations, impacting costs, prod
 ```
 ├── data/                 # Raw and processed datasets
 ├── notebooks/            # Jupyter notebooks for EDA, modeling, results
-├── src/                  # Source code (functions, scripts)
 ├── resources/
 │   ├── data/
 │   │   ├── input/                # Raw data
-│   │   ├── output/               # Cleaned & processed
+│   │   ├── output/               # Cleaned & prepared data
 │   ├── models/                   # Saved model pipelines (.pkl files)
 │       └── ... more models
 ├── README.md             # Project documentation
@@ -136,3 +135,4 @@ To set up and run this project locally, please follow these steps:
 -----
 
 ## Contact
+📩 For any queries or contributions, please reach out to AAI-510 Group 10 (Angshuman Roy ,Daksha S, Jagadeesh Kumar Sellappan).
