@@ -88,7 +88,9 @@ To set up and run this project locally, please follow these steps:
 1.  **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/hr-analytics-attrition-prediction.git
+    git clone https://github.com/jagadeesh-usd/hr-analytics-attrition-prediction.git
+    ```
+    ```bash
     cd hr-analytics-attrition-prediction
     ```
 
