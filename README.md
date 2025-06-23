@@ -36,13 +36,12 @@ Employee attrition is a major challenge for organizations, impacting costs, prod
 ## Project Structure
 
 ```
-├── data/                 # Raw and processed datasets
 ├── notebooks/            # Jupyter notebooks for EDA, modeling, results
 ├── resources/
 │   ├── data/
 │   │   ├── input/                # Raw data
 │   │   ├── output/               # Cleaned & prepared data
-│   ├── models/                   # Saved model pipelines (.pkl files)
+│   ├── models/                   # Saved model pipelines 
 │       └── ... more models
 ├── README.md             # Project documentation
 ```
